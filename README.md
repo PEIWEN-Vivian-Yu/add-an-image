@@ -1,4 +1,4 @@
-# Add an Image
+# add-an-image
 
 You can write something like just text here
 
